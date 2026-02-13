@@ -1,0 +1,80 @@
+[
+  {
+    "title": "General Rules",
+    "icon": "clipboard",
+    "items": [
+      "All players must follow Discord ToS and FiveM guidelines.",
+      "English is the primary language. Use English in /ooc and main chat.",
+      "Respect all staff members. Their decisions are final.",
+      "Exploiting, hacking, or using unauthorized mods will result in a permanent ban.",
+      "Do not advertise other servers or communities.",
+      "Keep OOC (Out of Character) drama out of the server."
+    ]
+  },
+  {
+    "title": "Roleplay Rules",
+    "icon": "mask",
+    "items": [
+      "Stay in character at all times. Breaking character ruins immersion.",
+      "No RDM (Random Deathmatch) – you must have a valid RP reason to initiate combat.",
+      "No VDM (Vehicle Deathmatch) – do not use vehicles as weapons without RP justification.",
+      "No Powergaming – do not force actions on other players.",
+      "No Metagaming – do not use OOC information in character.",
+      "No Fear RP – if someone has a gun to your head, act accordingly.",
+      "New Life Rule (NLR) – when you respawn after death, you do not remember what happened."
+    ]
+  },
+  {
+    "title": "Voice & Chat",
+    "icon": "mic",
+    "items": [
+      "Voice chat must be used for in-character conversations when possible.",
+      "No screaming, music, or disruptive noises in voice.",
+      "Use /ooc for out-of-character questions. Keep it brief.",
+      "No spamming in any chat channel.",
+      "Use /me for actions and /do for environmental descriptions."
+    ]
+  },
+  {
+    "title": "Character Rules",
+    "icon": "user",
+    "items": [
+      "One character per person unless whitelisted for multiple.",
+      "No famous characters or unrealistic backstories.",
+      "Character names must be realistic (first and last name).",
+      "Do not share characters or accounts with other players."
+    ]
+  },
+  {
+    "title": "Combat Rules",
+    "icon": "combat",
+    "items": [
+      "Value your life (VYL) – do not run into gunfights without fear.",
+      "No combat logging – leaving during active RP/combat is prohibited.",
+      "You must initiate RP before any hostile action (e.g., robbery, kidnapping).",
+      "Do not revive yourself or others without proper RP (e.g., EMS).",
+      "3-minute rule – wait 3 minutes before returning to a crime scene after death."
+    ]
+  },
+  {
+    "title": "Vehicle Rules",
+    "icon": "car",
+    "items": [
+      "Drive realistically. No excessive speeding in populated areas.",
+      "No vehicle spawning in front of others without RP reason.",
+      "Carjacking requires RP initiation (threat, robbery scenario).",
+      "Obey traffic laws in non-chase situations."
+    ]
+  },
+  {
+    "title": "Punishments",
+    "icon": "warning",
+    "items": [
+      "Minor infractions: Warning → Kick",
+      "Moderate infractions: Temporary ban (1–7 days)",
+      "Major infractions: Permanent ban",
+      "RDM, VDM, hacking, exploiting: Permanent ban",
+      "Staff reserve the right to adjust punishments based on context."
+    ]
+  }
+]
